@@ -1,0 +1,50 @@
+{
+  "author": "The BuddyPress Contributors",
+  "bugs": {
+    "url": "https://buddypress.trac.wordpress.org/"
+  },
+  "description": "BuddyPress helps site builders and WordPress developers add community features to their websites, with user profile fields, activity streams, messaging, and notifications.",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-checktextdomain": "~1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-cssmin": "~1.0.2",
+    "grunt-contrib-imagemin": "~1.0.1",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-uglify": "~2.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-exec": "~1.0.1",
+    "grunt-check-dependencies": "~0.12.0",
+    "grunt-jsvalidate": "~0.2.2",
+    "grunt-legacy-util": "^1.0.0",
+    "grunt-patch-wordpress": "~0.4.2",
+    "grunt-rtlcss": "~2.0.1",
+    "grunt-sass": "~1.2.1",
+    "grunt-scss-lint": "~0.5.0",
+    "grunt-wp-i18n": "~0.5.4",
+    "matchdep": "~1.0.1"
+  },
+  "engines": {
+    "node": "~6.6.0"
+  },
+  "keywords": [
+    "activity",
+    "community",
+    "forum",
+    "friends",
+    "groups",
+    "messaging",
+    "notifications",
+    "profiles",
+    "social network"
+  ],
+  "homepage": "https://buddypress.org",
+  "license": "GPL-2.0+",
+  "name": "buddypress",
+  "repository": {
+    "type": "svn",
+    "url": "https://buddypress.svn.wordpress.org/trunk/"
+  },
+  "version": "2.7.4"
+}

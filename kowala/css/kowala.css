@@ -1,0 +1,154 @@
+/* back to top */
+
+.kw_bcktop {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 1;
+  cursor: pointer;
+  opacity: 0.4;
+  width: 50px;
+  height: 50px;
+  transition: all 1s;
+  -moz-transition: all 1s; /* Firefox 4 */
+  -webkit-transition: all 1s; /* Safari and Chrome */
+  -o-transition: all 1s; /* Opera */
+  display: none;
+}
+
+.kw_bcktop img {
+  max-width: 100%;
+}
+
+.kw_bcktop:hover {
+  opacity: 1;
+}
+
+/* sommaire */
+
+.kowala-cont-sommaire {
+
+}
+#kowala-sommaire ul {
+  padding-left: 20px;
+  list-style: none;
+}
+
+#kowala-sommaire li:before{
+  position: absolute;
+  left: -20px;
+  top: 0;
+  font-size: 22px;
+  color: #010101;
+  content: "\203a";
+}
+
+.sommaire-mobile h2 {
+  display: none;
+}
+ .sommaire-mobile {
+   margin-bottom: 25px;
+ }
+
+
+.sommaire-mobile li {
+  list-style-type: square;
+  font-size: 16px;
+  padding-top: 4px;
+  padding-bottom: 7px;
+}
+
+.sommaire-mobile li a {
+  color: #E84E0F;
+}
+
+.sommaire-mobile li a:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 992px) {
+  .sommaire-mobile {
+    display: none;
+  }
+}
+@media only screen and (max-width: 991px) {
+  #sidebar .kowala-cont-sommaire {
+    display: none;
+  }
+}
+
+
+/* sharing icones  */
+
+#sidebar .sd-social-icon .sd-content ul li a.sd-button,
+#sidebar .sd-social-text .sd-content ul li a.sd-button,
+#sidebar .sd-content ul li a.sd-button,
+#sidebar .sd-content ul li .option a.share-ustom,
+#sidebar .sd-content ul li.preview-item div.option.option-smart-off a,
+#sidebar .sd-content ul li.advanced a.share-more,
+#sidebar .sd-social-icon-text .sd-content ul li a.sd-button,
+#sidebar .sd-social-official .sd-content>ul>li>a.sd-button, #sharing_email .sharing_send,
+#sidebar .sd-social-official .sd-content>ul>li .digg_button >a {
+    text-decoration: none !important;
+    display: inline-block;
+    font-size: 35px;
+    font-family: FontAwesome;
+    font-weight: normal;
+    border-radius: 0;
+    color: #21234C !important;
+    background: #f8f8f8;
+
+    border: 1px solid #21234C;
+
+    box-shadow: none;
+    text-shadow: none;
+    line-height: 23px;
+    padding: 20px;
+}
+
+
+.sharedaddy li a span {
+  display : none;
+}
+.share-facebook a:after {
+  font-family: FontAwesome!important;
+    content: "\f09a"!important;
+    opacity : 1;
+
+}
+
+.share-twitter a:after {
+  font-family: FontAwesome!important;
+    content: "\f099"!important;
+    opacity : 1;
+}
+
+.share-google-plus-1 a:after {
+  font-family: FontAwesome!important;
+    content: "\f0d5"!important;
+    opacity : 1;
+}
+
+.share-pinterest a:after {
+  font-family: FontAwesome!important;
+    content: "\f231"!important;
+    opacity : 1;
+}
+
+.share-linkedin a:after {
+  font-family: FontAwesome!important;
+    content: "\f0e1"!important;
+    opacity : 1;
+}
+
+.share-print a:after {
+  font-family: FontAwesome!important;
+    content: "\f02f"!important;
+    opacity : 1;
+}
+
+.share-email a:after {
+  font-family: FontAwesome!important;
+    content: "\f2b7"!important;
+    opacity : 1;
+}

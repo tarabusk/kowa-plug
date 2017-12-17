@@ -1,0 +1,815 @@
+# Copyright (C) 2017 Fast Secure reCAPTCHA
+# This file is distributed under the same license as the Fast Secure reCAPTCHA package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fast Secure reCAPTCHA 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fast-secure-"
+"recaptcha\n"
+"POT-Creation-Date: 2017-03-11 07:00:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: fast-secure-recaptcha-admin.php:15
+msgid "You do not have permissions for managing this option"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:87
+msgid "Your settings have been saved."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:90 fast-secure-recaptcha.php:53
+msgid "Fast Secure reCAPTCHA settings"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:118
+msgid ""
+"Fast Secure reCAPTCHA is Network Activated and Main site configured. It is "
+"not necessary to change any settings here."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:119
+msgid ""
+"Settings are controlled at the main site and are Networkwide. If you want "
+"individual sites to each have their own unique settings: go to the main site "
+"Fast Secure reCAPTCHA settings and enable \"Allow Multisite network "
+"activated sites to have individual Fast Secure reCAPTCHA settings\"."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:156
+msgid "Downloaded %s times"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:161 fast-secure-recaptcha-admin.php:169
+msgid "(Average rating based on %s ratings)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:163
+msgid "5 stars"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:164
+msgid "4 stars"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:165
+msgid "3 stars"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:166
+msgid "2 stars"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:167
+msgid "1 star"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:169
+msgid "rate"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:180
+msgid "a newer version is available: %s"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:182
+msgid "A newer version of Fast Secure reCAPTCHA is available: %s"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:185
+msgid "(latest version)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:191
+msgid "Version:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:192
+msgid "Changelog"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:193
+msgid "FAQ"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:194 fast-secure-recaptcha-admin.php:636
+msgid "Rate This"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:195 fast-secure-recaptcha.php:58
+msgid "Support"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:196 fast-secure-recaptcha-admin.php:613
+#: fast-secure-recaptcha.php:59
+msgid "Donate"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:197
+msgid "Mikes Free PHP Scripts"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:209
+msgid ""
+"<strong>Individual Site Settings Enabled</strong><br />Note: Fast Secure "
+"reCAPTCHA is not Network Activated, this means each site will have "
+"individual Fast Secure reCAPTCHA settings."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:210
+msgid ""
+"If you want it this way, that is OK, but if you want the master site to "
+"control all the sites: go to the main site, then Network Activate this "
+"plugin, then go to Fast Secure reCAPTCHA settings and disable \"Allow "
+"Multisite network activated sites to have individual Fast Secure reCAPTCHA "
+"settings\"."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:217 fast-secure-recaptcha-admin.php:592
+msgid "Save Changes"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:225
+msgid "API Keys:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:233
+msgid ""
+"Warning: reCAPTCHA V2 API key(s) missing. Please enter your Google reCAPTCHA "
+"V2 API keys for this site."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:239
+msgid ""
+"Click Save Settings to automatically copy API keys from the main site, or if "
+"you have Domain Mapping enabled, you can enter new Google reCAPTCHA V2 API "
+"keys for this site."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:245
+msgid "reCAPTCHA V2 Site Key"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:247 fast-secure-recaptcha-admin.php:255
+#: fast-secure-recaptcha-admin.php:274 fast-secure-recaptcha-admin.php:282
+#: fast-secure-recaptcha-admin.php:290 fast-secure-recaptcha-admin.php:298
+#: fast-secure-recaptcha-admin.php:306 fast-secure-recaptcha-admin.php:314
+#: fast-secure-recaptcha-admin.php:322 fast-secure-recaptcha-admin.php:330
+#: fast-secure-recaptcha-admin.php:338 fast-secure-recaptcha-admin.php:346
+#: fast-secure-recaptcha-admin.php:354 fast-secure-recaptcha-admin.php:362
+#: fast-secure-recaptcha-admin.php:379 fast-secure-recaptcha-admin.php:387
+#: fast-secure-recaptcha-admin.php:406 fast-secure-recaptcha-admin.php:414
+#: fast-secure-recaptcha-admin.php:431 fast-secure-recaptcha-admin.php:454
+#: fast-secure-recaptcha-admin.php:541 fast-secure-recaptcha-admin.php:549
+#: fast-secure-recaptcha-admin.php:571
+msgid "Click for Help!"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:247 fast-secure-recaptcha-admin.php:255
+#: fast-secure-recaptcha-admin.php:274 fast-secure-recaptcha-admin.php:282
+#: fast-secure-recaptcha-admin.php:290 fast-secure-recaptcha-admin.php:298
+#: fast-secure-recaptcha-admin.php:306 fast-secure-recaptcha-admin.php:314
+#: fast-secure-recaptcha-admin.php:322 fast-secure-recaptcha-admin.php:330
+#: fast-secure-recaptcha-admin.php:338 fast-secure-recaptcha-admin.php:346
+#: fast-secure-recaptcha-admin.php:354 fast-secure-recaptcha-admin.php:362
+#: fast-secure-recaptcha-admin.php:379 fast-secure-recaptcha-admin.php:387
+#: fast-secure-recaptcha-admin.php:406 fast-secure-recaptcha-admin.php:414
+#: fast-secure-recaptcha-admin.php:431 fast-secure-recaptcha-admin.php:454
+#: fast-secure-recaptcha-admin.php:541 fast-secure-recaptcha-admin.php:549
+#: fast-secure-recaptcha-admin.php:571
+msgid "help"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:249
+msgid "The key in the HTML code your site serves to users"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:253
+msgid "reCAPTCHA V2 Secret Key"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:257
+msgid ""
+"For communication between your site and Google.  Be sure to keep it a secret."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:261
+msgid "Get reCAPTCHA V2 keys for your site here"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:262
+msgid ""
+"Note: Do not copy any google HTML code to your site HTML. Google "
+"instructions might say to, but this plugin does all that for you!"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:269
+msgid "Enable reCAPTCHA:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:273
+msgid "Login form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:276
+msgid "Require that the user pass a reCAPTCHA V2 test before login."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:281
+msgid "Register form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:284
+msgid "Require that the user pass a reCAPTCHA test before registering."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:289
+msgid "Lost password form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:292
+msgid ""
+"Require that the user pass a reCAPTCHA test before lost password request."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:297
+msgid "Comment form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:300
+msgid "Require that the user pass a reCAPTCHA test before posting comments."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:305
+msgid "Multisite register form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:308
+msgid ""
+"Require that the user pass a reCAPTCHA test before registering in Multisite."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:313
+msgid "BuddyPress register form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:316
+msgid ""
+"Require that the user pass a reCAPTCHA test before registering in BuddyPress."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:321
+msgid "wpForo Forum register form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:324
+msgid ""
+"Require that the user pass a reCAPTCHA test before registering in wpForo "
+"Forum."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:329
+msgid "WooCommerce checkout."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:332
+msgid ""
+"Require that the user pass a reCAPTCHA test on WooCommerce checkout form "
+"when not logged in."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:337
+msgid "Jetpack Contact Form"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:340
+msgid "Require that the user pass a reCAPTCHA test on Jetpack Contact Form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:345
+msgid "bbPress Reply to Topic Form"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:348
+msgid ""
+"Require that the user pass a reCAPTCHA test on bbPress Reply to Topic Form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:353
+msgid "bbPress New Topic Form"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:356
+msgid "Require that the user pass a reCAPTCHA test on bbPress New Topic Form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:361
+msgid "No comment form reCAPTCHA for logged in users"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:364
+msgid ""
+"Logged in users will not have to pass a reCAPTCHA test on comments form."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:378 fast-secure-recaptcha-admin.php:405
+msgid ""
+"Allow Multisite network activated sites to have individual Fast Secure "
+"reCAPTCHA settings."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:381 fast-secure-recaptcha-admin.php:408
+msgid ""
+"Enabling this setting allows: individual site settings for this plugin on "
+"multisite with network activation turned on. The default is for all sites to "
+"use the master site settings."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:386
+msgid ""
+"Allow Multisite network activated main site to copy main site reCAPTCHA API "
+"keys to all other sites."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:389 fast-secure-recaptcha-admin.php:416
+msgid ""
+"Enabling this setting allows: automatically copy main site API keys to all "
+"other sites, but only when multisite with network activation turned on and "
+"when individual site settings are also enabled."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:399
+msgid ""
+"Fast Secure reCAPTCHA is Network Activated and individual site configured. "
+"The next two settings can only be modified by the main site settings menu."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:404 fast-secure-recaptcha-admin.php:412
+msgid "Main site admin enabled:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:404 fast-secure-recaptcha-admin.php:412
+msgid "Main site admin disabled:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:413
+msgid ""
+"Allow Multisite network activated main site to automatically copy main site "
+"reCAPTCHA API keys to all other sites."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:426
+msgid "Style:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:430
+msgid "Enable small size reCAPTCHA on all forms."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:433
+msgid "Makes the reCAPTCHA size compact instead of normal on all the forms."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:438
+msgid "reCAPTCHA Theme: dark or light?"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:442
+msgid "Light theme"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:443
+msgid "Dark theme"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:456
+msgid "The color theme of the reCAPTCHA widget."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:460
+msgid "reCAPTCHA Language"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:464
+msgid "Auto Detect"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:465
+msgid "Arabic"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:466
+msgid "Afrikaans"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:467
+msgid "Amharic"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:468
+msgid "Armenian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:469
+msgid "Basque"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:470
+msgid "Bengali"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:471
+msgid "Bulgarian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:472
+msgid "Catalan"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:473
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:474
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:475
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:476
+msgid "Croatian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:477
+msgid "Czech"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:478
+msgid "Danish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:479
+msgid "Dutch"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:480
+msgid "English (UK)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:481
+msgid "English (US)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:482
+msgid "Estonian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:483
+msgid "Filipino"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:484
+msgid "Finnish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:485
+msgid "French"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:486
+msgid "French (Canadian)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:487
+msgid "Galician"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:488
+msgid "Georgian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:489
+msgid "German"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:490
+msgid "German (Austria)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:491
+msgid "German (Switzerland)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:492
+msgid "Greek"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:493
+msgid "Gujarati"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:494
+msgid "Hebrew"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:495
+msgid "Hindi"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:496
+msgid "Hungarain"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:497
+msgid "Indonesian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:498
+msgid "Italian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:499
+msgid "Japanese"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:500
+msgid "Kannada"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:501
+msgid "Korean"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:502
+msgid "Laothian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:503
+msgid "Latvian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:504
+msgid "Lithuanian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:505
+msgid "Malay"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:506
+msgid "Malayalam"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:507
+msgid "Marathi"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:508
+msgid "Mongolian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:509
+msgid "Norwegian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:510
+msgid "Persian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:511
+msgid "Polish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:512
+msgid "Portuguese"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:513
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:514
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:515
+msgid "Romanian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:516
+msgid "Russian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:517
+msgid "Serbian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:518
+msgid "Sinhalese"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:519
+msgid "Slovak"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:520
+msgid "Slovenian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:521
+msgid "Spanish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:522
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:523
+msgid "Swahili"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:524
+msgid "Swedish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:525
+msgid "Tamil"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:526
+msgid "Telugu"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:527
+msgid "Thai"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:528
+msgid "Turkish"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:529
+msgid "Ukrainian"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:530
+msgid "Vietnamese"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:531
+msgid "Zulu"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:543
+msgid ""
+"Forces the reCAPTCHA widget to render in a specific language. Default is to "
+"Auto-detect the language."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:548
+msgid "Enable external reCAPTCHA CSS."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:551
+msgid ""
+"Enable to not load this plugin CSS into wp_head. This allows you to load "
+"your own modified CSS into your theme instead. This plugin loads some CSS "
+"for the reCAPTCHA DIV. You can look in the HTML head section to see what is "
+"there before you enable external CSS."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:566
+msgid "Error Messages:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:570
+msgid "Customize Text:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:573
+msgid ""
+"These fields can be filled in to override the error message that displays "
+"when the form is submitted and the reCAPTCHA does not pass validation."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:576 fast-secure-recaptcha.php:656
+#: fast-secure-recaptcha.php:727 fast-secure-recaptcha.php:740
+#: fast-secure-recaptcha.php:773 fast-secure-recaptcha.php:798
+msgid "ERROR"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:578 fast-secure-recaptcha.php:701
+#: fast-secure-recaptcha.php:833
+msgid "You have selected an incorrect reCAPTCHA value"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:588
+msgid ""
+"I have donated to help contribute for the development of this plugin. This "
+"checkbox makes the donate button go away"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:597
+msgid "Don't Forget to Test the reCAPTCHA"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:600
+msgid ""
+"After installing or updating plugins and themes, be sure to test the "
+"reCAPTCHA on each form where it is enabled. It should display, allow actions "
+"on valid code, and block actions on invalid code."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:616
+msgid ""
+"If you find this plugin useful to you, please consider making a donation to "
+"help contribute to my time invested and to further development. Thanks for "
+"your kind support!"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:617
+msgid "You have 1 message from Mike Challis"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:634
+msgid ""
+"Mike Challis says: \"Hello, I have many hours coding this plugin just for "
+"you. Please consider making a donation. If you are not able to, that is OK."
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:635
+msgid "Please also rate my plugin.\""
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:638
+msgid "Close this message"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:646
+msgid "WordPress plugins by Mike Challis:"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:648
+msgid "Fast Secure Contact Form"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Fast Secure reCAPTCHA 1.0.9)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: fast-secure-recaptcha-admin.php:649 fast-secure-recaptcha.php:53
+msgid "Fast Secure reCAPTCHA"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:650
+msgid "SI CAPTCHA Anti-Spam"
+msgstr ""
+
+#: fast-secure-recaptcha-admin.php:651
+msgid "Visitor Maps and Who's Online"
+msgstr ""
+
+#: fast-secure-recaptcha.php:75
+msgid ""
+"<strong>Fast Secure reCAPTCHA needs your attention:</strong> To make it "
+"work, you need to enter API keys. <br />You can do so at the <a href=\"%s"
+"\">Fast Secure reCAPTCHA settings page</a>."
+msgstr ""
+
+#: fast-secure-recaptcha.php:106
+msgid "Settings"
+msgstr ""
+
+#: fast-secure-recaptcha.php:432
+msgid "Submit Comment"
+msgstr ""
+
+#: fast-secure-recaptcha.php:840
+msgid "Error connecting to the reCAPTCHA API host."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/fast-secure-recaptcha/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds No CAPTCHA reCAPTCHA V2 anti-spam to WordPress pages for comments, "
+"login, registration, lost password, BuddyPress register, bbPress register, "
+"wpForo register, bbPress New Topic and Reply to Topic Forms, Jetpack Contact "
+"Form, and WooCommerce checkout. In order to post comments, login, or "
+"register, users will have to pass the reCAPTCHA V2 \"I'm not a robot\" test. "
+"Prevents spam from automated bots. Compatible with Akismet and Multisite "
+"Network Activate."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mike Challis"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.642weather.com/weather/scripts.php"
+msgstr ""
